@@ -15,4 +15,4 @@ Also, a *.jpg file is created that show the binarized matrix.
 
 ## Necessary files
 
-Out of the ima.m, also the files *deri.m, display_rounded_matrix.m*, and *supsmu.m* are used.
+Out of the __ima.m__, also the files *deri.m, display_rounded_matrix.m*, and *supsmu.m* are used.
